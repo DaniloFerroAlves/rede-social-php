@@ -2,7 +2,7 @@
 Uma rede social desenvolvida em PHP(SENAC)
 
 > Rede Social feita toda em PHP <br>
-> obs: Feita em menos de 2 semanas
+
 
 ## Tela de login
 ![Tela de Login](https://user-images.githubusercontent.com/105828544/210458852-e096e90d-37cf-4ff5-8104-8422404f05eb.png)
